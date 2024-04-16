@@ -1,2 +1,0 @@
-Python 3.8 
-numpy 1.23.5
